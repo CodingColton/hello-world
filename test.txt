@@ -1,2 +1,6 @@
 learning git
 this is a test text file
+
+Below is a copy for learning how to commit a new change:
+learning git
+this is a test text file
